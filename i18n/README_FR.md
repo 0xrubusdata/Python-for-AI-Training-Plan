@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../docs/fr.jpg" alt="French" width="25%" />
+  <img src="../docs/frfr.jpg" alt="French" width="25%" />
 </div>
 
 ---
