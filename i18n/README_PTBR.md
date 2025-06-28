@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../docs/ptbr.jpg" alt="Tugal" width="25%" />
+  <img src="../docs/ptpt.jpg" alt="Tugal" width="25%" />
 </div>
 
 ---
